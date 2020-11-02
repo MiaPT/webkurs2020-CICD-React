@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MiaPT/webkurs2020-CICD-React/static/css/main.69eda509.chunk.css",
+    "main.js": "/MiaPT/webkurs2020-CICD-React/static/js/main.ac89f3c6.chunk.js",
+    "main.js.map": "/MiaPT/webkurs2020-CICD-React/static/js/main.ac89f3c6.chunk.js.map",
+    "runtime-main.js": "/MiaPT/webkurs2020-CICD-React/static/js/runtime-main.99d3006c.js",
+    "runtime-main.js.map": "/MiaPT/webkurs2020-CICD-React/static/js/runtime-main.99d3006c.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/MiaPT/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/MiaPT/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/MiaPT/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.map",
+    "index.html": "/MiaPT/webkurs2020-CICD-React/index.html",
+    "precache-manifest.161c9269345055d94c07a399621e0fdd.js": "/MiaPT/webkurs2020-CICD-React/precache-manifest.161c9269345055d94c07a399621e0fdd.js",
+    "service-worker.js": "/MiaPT/webkurs2020-CICD-React/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/MiaPT/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/MiaPT/webkurs2020-CICD-React/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/MiaPT/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d3006c.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.ac89f3c6.chunk.js"
+  ]
+}
